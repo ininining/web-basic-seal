@@ -4,6 +4,12 @@
 
 .para-external {
     color: bisque;
-    background-color: brown; 
+    background-color: brown;
+}
 
+body {background-color: lightpink;
+
+}
+li a:hover {
+    background-color: greenyellow;
 }
