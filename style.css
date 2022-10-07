@@ -3,8 +3,10 @@
 }
 
 .para-external {
-    color: bisque;
-    background-color: brown;
+  color: bisque;
+  background-color: brown;
+  width: 300px;
+  border: 1px solid;
 }
 
 body {background-color: lightpink;
@@ -33,3 +35,22 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  div {
+    height: 100px;
+    width: 50%;
+    text-indent: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  .p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+ .para1 {
+    margin: 5px;
+    padding: 5px;
+    list-style-type: lower-greek;
+    font-size: 2,5em;
+    font-weight: bold;
+    font-style: normal;
+    border: 1px saddlebrown;
+ }
