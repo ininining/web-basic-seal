@@ -53,4 +53,7 @@ ul {
     font-weight: bold;
     font-style: normal;
     border: 1px saddlebrown;
+    overflow: hidden;
+    background-color: burlywood;   
  }
+
